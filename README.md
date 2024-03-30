@@ -5,12 +5,14 @@ Vanilla JavaScript and Jest.
 
 ## Getting Started
 
-I recommend forking the repo so that you can practice committing changes.
+I recommend creating your own copy of this repo, so that you can practice committing changes as you go:
 
-Clone the repo (if forked, replace `dkarter` with your username):
+![](https://github.com/dkarter/jest_quickstart/assets/551858/128a6603-7280-43ef-ae35-85eb994fccd5)
+
+Clone the repo:
 
 ```bash
-git clone git://github.com:dkarter/jest_quickstart.git
+git clone git://github.com:<username>/jest_quickstart.git
 ```
 
 Install packages:
