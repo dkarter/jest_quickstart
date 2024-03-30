@@ -5,7 +5,9 @@ Vanilla JavaScript and Jest.
 
 ## Getting Started
 
-Clone the repo:
+I recommend forking the repo so that you can practice committing changes.
+
+Clone the repo (if forked, replace `dkarter` with your username):
 
 ```bash
 git clone git://github.com:dkarter/jest_quickstart.git
